@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2020-07-03 12:02:25 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="490pt" height="333pt"
+	viewBox="203 375 7777 5272">
+<g fill="none">
+<!-- Text -->
+<g transform="translate(585,3600) rotate(-270)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:Act</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="2025" y="5520" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="5070" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="6525" y="5490" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="6525" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="540" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:A</text>
+<!-- Text -->
+<text xml:space="preserve" x="6525" y="540" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:B</text>
+<!-- Text -->
+<text xml:space="preserve" x="6525" y="2340" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="2340" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="4275" y="3690" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<g transform="translate(5535,3600) rotate(-270)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:Int</text>
+</g><!-- Text -->
+<g transform="translate(7965,3600) rotate(-90)" >
+<text xml:space="preserve" x="0" y="0" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:Inh</text>
+</g><!-- Text -->
+<text xml:space="preserve" x="3825" y="5535" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[A]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4275" y="5310" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">CFM:I</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="5535" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[Inh]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4500" y="4950" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[B]</text>
+<!-- Text -->
+<text xml:space="preserve" x="3600" y="4950" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="start">[Act]</text>
+<!-- Text -->
+<text xml:space="preserve" x="3825" y="1800" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[A]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="1800" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[B]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4680" y="2340" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[Inh]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4275" y="2115" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">CFM:P</text>
+<!-- Text -->
+<text xml:space="preserve" x="3870" y="2340" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[Act]</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="3690" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="6525" y="3690" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Line -->
+<polyline points=" 1800,3600 900,3600 1125,3825"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6750,3600 7650,3600 7425,3825"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 1800,1800 225,1800 225,5400 1800,5400 1575,5625"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2250,5400 3600,5400 3375,5625"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2250,4950 3600,4950 3375,5175"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6300,5400 4950,5400 5175,5625"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6525,3825 6525,5175 6750,4950"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,4950 4275,3825 4500,4050"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2025,1575 2025,675 2250,900"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6525,1575 6525,675 6750,900"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2250,1800 3600,1800 3375,2025"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4950,1800 6300,1800 6075,2025"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6300,2250 4950,2250 5175,2475"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2250,2250 3600,2250 3375,2475"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4500,3600 5400,3600 5175,3825"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2025,3825 2025,4725 2250,4500"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 2025,3375 2025,2475 2250,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6525,3375 6525,2475 6750,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,3240 2250,2340 2475,2340"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4086,3393 2286,2493 2511,2493"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,3510 2250,2610 2475,2610"
+	stroke="#000000" stroke-width="15px"/>
+</g>
+</svg>

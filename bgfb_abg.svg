@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2020-06-12 12:25:10 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="712pt" height="230pt"
+	viewBox="2228 1103 11294 3644">
+<g fill="none">
+<!-- Line -->
+<rect x="2250" y="1125" width="11250" height="3600" rx="105"
+	stroke="#ffd600" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="11925" y="2925" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">P</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="11925" y="3465" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">f<tspan font-size="160" baseline-shift="sub">P</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="10350" y="2925" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">P</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="10350" y="3465" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">f<tspan font-size="160" baseline-shift="sub">sys</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="10350" y="4050" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">P</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="10350" y="4590" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">f<tspan font-size="160" baseline-shift="sub">I</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="10800" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">\phi<tspan font-size="160" baseline-shift="sub">P</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="11250" y="2250" fill="#0000ff" font-family="Times" font-style="italic" font-weight="bold" font-size="240" text-anchor="middle">f<tspan font-size="160" baseline-shift="sub">D</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="6975" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="9000" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Path:sys</text>
+<!-- Text -->
+<text xml:space="preserve" x="11025" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="12825" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:P</text>
+<!-- Text -->
+<text xml:space="preserve" x="6975" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:S</text>
+<!-- Text -->
+<text xml:space="preserve" x="11250" y="1665" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:rd</text>
+<!-- Text -->
+<text xml:space="preserve" x="9225" y="1665" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:D</text>
+<!-- Text -->
+<text xml:space="preserve" x="5040" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">ECR:con</text>
+<!-- Text -->
+<text xml:space="preserve" x="2790" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:P0</text>
+<!-- Text -->
+<text xml:space="preserve" x="5625" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[B]</text>
+<!-- Text -->
+<text xml:space="preserve" x="9675" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[P]</text>
+<!-- Text -->
+<text xml:space="preserve" x="8325" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[S]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="end">[Act]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4860" y="3600" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="end">[Inh]</text>
+<!-- Line -->
+<polyline points=" 7200,3150 8325,3150 8100,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 9675,3150 10800,3150 10575,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11250,3150 12375,3150 12150,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,2925 6975,2025 7200,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11025,2925 11025,1800 11250,2025"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 10800,1575 9675,1575 9900,1800"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5625,3150 6750,3150 6525,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11025,3375 11025,4275 4950,4275 4950,3375 5175,3600"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 3240,3150 4365,3150 4140,3375"
+	stroke="#000000" stroke-width="15px"/>
+</g>
+</svg>

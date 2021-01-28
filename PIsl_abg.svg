@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2020-06-09 19:37:51 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="662pt" height="201pt"
+	viewBox="2696 1425 10497 3180">
+<g fill="none">
+<!-- Text -->
+<text xml:space="preserve" x="6975" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="9000" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Path:sys</text>
+<!-- Text -->
+<text xml:space="preserve" x="11025" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="12825" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:P</text>
+<!-- Text -->
+<text xml:space="preserve" x="5175" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">PI:con</text>
+<!-- Text -->
+<text xml:space="preserve" x="6975" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:S</text>
+<!-- Text -->
+<text xml:space="preserve" x="11250" y="1665" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:rd</text>
+<!-- Text -->
+<text xml:space="preserve" x="9225" y="1665" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:D</text>
+<!-- Text -->
+<text xml:space="preserve" x="3150" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:P0</text>
+<!-- Text -->
+<text xml:space="preserve" x="4950" y="4590" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Ce:Inh</text>
+<!-- Text -->
+<text xml:space="preserve" x="5625" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[B]</text>
+<!-- Text -->
+<text xml:space="preserve" x="9675" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[P]</text>
+<!-- Text -->
+<text xml:space="preserve" x="8325" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="middle">[S]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4950" y="3600" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="end">[Inh]</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="2925" fill="#ff0000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="168" text-anchor="end">[Act]</text>
+<!-- Line -->
+<polyline points=" 7200,3150 8325,3150 8100,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 9675,3150 10800,3150 10575,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11250,3150 12375,3150 12150,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,2925 6975,2025 7200,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11025,2925 11025,1800 11250,2025"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 10800,1575 9675,1575 9900,1800"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5625,3150 6750,3150 6525,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 3600,3150 4725,3150 4500,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4950,4275 4950,3375 5175,3600"
+	stroke="#000000" stroke-width="15px"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+name=`basename $PWD`
+echo Creating $name.pdf
+
+## Create a pdf
+Jupyter-nbconvert $name
+latexmk -pdf -quiet $name
+
+
